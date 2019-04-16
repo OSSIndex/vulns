@@ -4,8 +4,7 @@ This repository is intended for reports of:
 
 * Advisories missing from OSS Index
 * Issues with vulnerabilities reported by OSS Index
-
-To report on Zero Day vulnerabilities which do not currently have advisories against them, please see the [Central Security Project](https://www.sonatype.com/central-security-project)
+* Zero days: Unsupported by OSS Index, but please submit them to the [Central Security Project](https://www.sonatype.com/central-security-project)
 
 Thank you for the help!
 
