@@ -2,7 +2,7 @@
 name: Bug report
 about: Tell us about a bug in our data
 title: Incorrect vulnerability details
-labels: ''
+labels: bug
 assignees: ''
 
 ---
