@@ -8,7 +8,7 @@ This repository is intended for reports of:
 
 Thank you for the help!
 
-##What is an advisory, and how do I submit one?
+## What is an advisory, and how do I submit one?
 
 An advisory is a vulnerability which is reported *somewhere* on the internet. It might be reported as:
 
@@ -33,7 +33,7 @@ Issue body:
   versions: <Version range affected by the vulnerability>
 ```
 
-##How do I report other problems in OSS Index data?
+## How do I report other problems in OSS Index data?
 
 Sometimes OSS Index has false positives, or reported vulnerabilities are incomplete.
 
