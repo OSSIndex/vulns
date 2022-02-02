@@ -4,7 +4,6 @@ This repository is intended for reports of:
 
 * Advisories missing from OSS Index
 * Issues with vulnerabilities reported by OSS Index
-* Zero days: Not directly supported here, but please submit them to the [Central Security Project](https://www.sonatype.com/central-security-project) whereupon they will find their way into OSS Index.
 
 Thank you for the help!
 
@@ -15,7 +14,7 @@ An advisory is a vulnerability which is reported *somewhere* on the internet. It
 * A vulnerability on a vulnerability list somewhere
 * A security advisory published by a product owner
 * A note in a readme
-* A GitHub, Bugzilla, JIRA, or other issue against a project
+* A GitHub, Bugzilla, Jira, or other issue against a project
 
 To submit an advisory, create an issue which contains the following information. Note that the more fields you provide, the faster we will be able to add the advisory to our catelog. At a minimum the URL field is required:
 
